@@ -6,5 +6,8 @@
 2. Download requirements
    `pip install -r requirements`
 
-3. Place audio files in audio folder and run the program
+3. Replace "YOUR API KEY HERE" in main.py with your API key from OpenAI
+   https://platform.openai.com/account/api-keys
+
+4. Place audio files in audio folder and run the program
    `python main.py`
